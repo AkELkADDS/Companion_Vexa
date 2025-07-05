@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
-   Sat 07/05/2025 20:13:44.82 
+   Sat 07/05/2025 20:14:10.27 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -62,7 +62,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, July 5, 2025 8:13:47 PM
+  Started : Saturday, July 5, 2025 8:14:13 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
 
@@ -86,7 +86,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           7263337000 Bytes/sec.
    Speed :           415611.476 MegaBytes/min.
-   Ended : Saturday, July 5, 2025 8:13:47 PM
+   Ended : Saturday, July 5, 2025 8:14:13 PM
 
  
 [DEBUG] Counting source files 
@@ -112,7 +112,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, July 5, 2025 8:13:49 PM
+  Started : Saturday, July 5, 2025 8:14:14 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
 
@@ -131,7 +131,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :     5.4 k     5.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, July 5, 2025 8:13:49 PM
+   Ended : Saturday, July 5, 2025 8:14:14 PM
 
  
 [DEBUG] Counting source files 
@@ -157,7 +157,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, July 5, 2025 8:13:50 PM
+  Started : Saturday, July 5, 2025 8:14:16 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
 
@@ -168,7 +168,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   14729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\meta.lsx100%  
-	    New File  		   6.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\mod_publish_logo.png100%  
+	    New File  		   6.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\mod_publish_logo.png 14%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\GUI\metadata.lsf100%  
 	    New File  		    1024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Localization\English\english.xml100%  
 
@@ -183,7 +183,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           3639763000 Bytes/sec.
    Speed :           208268.909 MegaBytes/min.
-   Ended : Saturday, July 5, 2025 8:13:50 PM
+   Ended : Saturday, July 5, 2025 8:14:16 PM
 
  
 [DEBUG] Counting source files 
@@ -209,7 +209,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, July 5, 2025 8:13:53 PM
+  Started : Saturday, July 5, 2025 8:14:17 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
 
@@ -237,9 +237,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :             1903333 Bytes/sec.
-   Speed :             108.909 MegaBytes/min.
-   Ended : Saturday, July 5, 2025 8:13:53 PM
+   Speed :            11420000 Bytes/sec.
+   Speed :             653.457 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 8:14:17 PM
 
  
 [DEBUG] Counting source files 
