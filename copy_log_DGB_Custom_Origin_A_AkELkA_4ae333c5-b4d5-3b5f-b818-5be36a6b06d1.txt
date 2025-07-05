@@ -1,0 +1,285 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+   Sat 07/05/2025 19:49:51.06 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Origins\Origins.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Content\[PAK]_DGB_Custom_Origin_A_AkELkA\09587b46-0569-e830-c530-bd8cbc71d12f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Content\[PAK]_DGB_Custom_Origin_A_AkELkA\b09cad28-13cc-645f-5dfe-43606b340ff1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Origins\Origins.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\0d565828-1369-43e3-a192-5425b27949b5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\30352fd5-cd5a-4ab3-ae2b-645de628a510.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\536014af-c6ff-483e-8057-aefe893a2650.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\aec65750-a7f8-471b-ab97-e11cf4c3b969.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\d18dcd1d-842e-4ea7-88e4-0108eecc08f8.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 8 
+ 
+[LOG] Total files found across all folders: 15 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 to Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using destination: Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 7:49:55 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\meta.lsx100%  
+	    New File  		   6.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\thumbnail.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    6.92 m    6.92 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3631668500 Bytes/sec.
+   Speed :           207805.738 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 7:49:55 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 to "Editor\Mods"\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using destination: Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 7:49:56 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Origins\Origins.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :     5.4 k     5.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, July 5, 2025 7:49:56 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 to Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using destination: Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 7:49:58 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\meta.lsx100%  
+	    New File  		   6.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\GUI\metadata.lsf100%  
+	    New File  		    1024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    6.94 m    6.94 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3639763000 Bytes/sec.
+   Speed :           208268.909 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 7:49:58 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 to Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[DEBUG] Using destination: Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 7:49:59 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    1589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\0d565828-1369-43e3-a192-5425b27949b5.lsf100%  
+	    New File  		    1596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\30352fd5-cd5a-4ab3-ae2b-645de628a510.lsf100%  
+	    New File  		    1413	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\536014af-c6ff-483e-8057-aefe893a2650.lsf100%  
+	    New File  		    1577	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\aec65750-a7f8-471b-ab97-e11cf4c3b969.lsf100%  
+	    New File  		    1586	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\RootTemplates\d18dcd1d-842e-4ea7-88e4-0108eecc08f8.lsf100%  
+	    New File  		    5113	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Origins\Origins.lsx100%  
+	    New File  		    4428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Content\[PAK]_DGB_Custom_Origin_A_AkELkA\09587b46-0569-e830-c530-bd8cbc71d12f.lsf100%  
+	    New File  		    5538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1\Content\[PAK]_DGB_Custom_Origin_A_AkELkA\b09cad28-13cc-645f-5dfe-43606b340ff1.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         8         8         0         0         0         0
+   Bytes :    22.3 k    22.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             1903333 Bytes/sec.
+   Speed :             108.909 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 7:49:59 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 8 
+[DEBUG] Successfully copied files: 8 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1: 
+      Total files: 8 
+      Copied successfully: 8 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Custom_Origin_A_AkELkA_4ae333c5-b4d5-3b5f-b818-5be36a6b06d1 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 8 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 15 
+[SUMMARY] Total files successfully copied: 30 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
